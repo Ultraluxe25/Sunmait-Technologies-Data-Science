@@ -1,6 +1,7 @@
 # Sunmait Technologies
 ![building](images/building.jpg)
-## Data Science in International company
+### Data Science in International company
 ![logo](images/logo.png)
-### Levels are data science topics that need to be learned to fill in the gaps in my knowledge.
-- Level 1: Clustering (27.01.25)
+- **Lectures** are .ipynb files that stores useful screenshots and references for the most useful information from the lectures
+- **Levels** are data science topics that need to be learned to fill in the gaps in my knowledge.
+- **Home works** are tasks that we have to do during studying
