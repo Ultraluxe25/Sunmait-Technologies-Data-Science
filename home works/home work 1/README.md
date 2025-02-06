@@ -1,4 +1,5 @@
-# Home Work 1 - Learn how to use devcontainers in VS Code. Work with uv tool and ruff as linter and formatter. How to launch Docker and basics of it.
+# Home Work 1
+#### Learn how to use devcontainers in VS Code. Work with uv tool and ruff as linter and formatter. How to launch Docker and basics of it.
 
 ## Project Structure:
 
