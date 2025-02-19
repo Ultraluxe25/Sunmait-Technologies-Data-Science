@@ -5,13 +5,16 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "coverage>=7.6.12",
     "fastapi>=0.115.8",
+    "httpx>=0.28.1",
     "ipykernel>=6.29.5",
     "joblib>=1.4.2",
     "matplotlib>=3.10.0",
     "numpy>=2.2.2",
     "pandas>=2.2.3",
     "pydantic>=2.10.6",
+    "pytest>=8.3.4",
     "scikit-learn>=1.6.1",
     "torch>=2.6.0",
     "torchaudio>=2.6.0",
@@ -19,4 +22,10 @@ dependencies = [
     "transformers>=4.48.3",
     "triton>=3.2.0",
     "uvicorn>=0.34.0",
+]
+
+[dependency-groups]
+dev = [
+    "coverage>=7.6.12",
+    "pre-commit>=4.1.0",
 ]
