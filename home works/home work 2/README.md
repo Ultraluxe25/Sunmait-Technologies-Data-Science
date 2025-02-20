@@ -1,6 +1,6 @@
-# Home work `week-2` Overview
+# Project Overview
 
-This project aims to use machine learning model for sentiment analysis by Hugging Face. The project utilizes a FastAPI backend for serving predictions via a RESTful API.  Comprehensive unit tests ensure the reliability and accuracy of the prediction model.
+This project aims to create a robust and efficient machine learning model for sentiment analysis by Hugging Face. The project utilizes a FastAPI backend for serving predictions via a RESTful API.  Comprehensive unit tests ensure the reliability and accuracy of the prediction model.
 
 ## Project Structure
 
